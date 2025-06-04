@@ -118,8 +118,6 @@ A model is a representation of the process that allows companies to document, si
 * What is BPEL?
 * How do BPMN and BPEL relate?
 
-```
-
 ## BPM resources
 
 [BPM Training | NobleProg](https://www.nobleprog.cz/en/bpm-training)
